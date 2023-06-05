@@ -38,6 +38,7 @@ Shamol tezligi: {wind_speed}
 Kenglik: {long}
 Uzunlik: {lat}
 Kenglik
+Yoruglik
 """
     await message.answer(answer_text)
 
