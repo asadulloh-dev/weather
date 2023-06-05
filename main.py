@@ -37,6 +37,7 @@ Namlik: {humidity}
 Shamol tezligi: {wind_speed}
 Kenglik: {long}
 Uzunlik: {lat}
+Kenglik
 """
     await message.answer(answer_text)
 
